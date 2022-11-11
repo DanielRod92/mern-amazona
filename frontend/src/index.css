@@ -15,6 +15,11 @@ main {
   flex: 1;
 }
 
+.btn-primary {
+  background-color: #f0c040;
+  color: black;
+}
+
 .products {
   display: flex;
   flex-wrap: wrap;
@@ -24,6 +29,10 @@ main {
 .product {
   border: 1px #404040 solid;
   margin: 1rem;
+}
+
+.rating span {
+  color: #ffc000;
 }
 
 .product img {
