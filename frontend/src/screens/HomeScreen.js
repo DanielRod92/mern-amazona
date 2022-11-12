@@ -45,9 +45,9 @@ function HomeScreen() {
     }, []);
     return <div>
         <Helmet>
-            <title>amazona</title>
+            <title>TiendaTeam</title>
         </Helmet>
-        <h1>Featured Products</h1>
+        <h1>Productos Recomendados</h1>
         <div className="products">
             {
                 loading ? <LoadingBox />
