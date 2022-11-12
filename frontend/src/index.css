@@ -16,8 +16,10 @@ main {
 }
 
 .btn-primary {
-  background-color: #f0c040;
-  color: black;
+  background-color: grey;
+  color: white;
+  font-weight: bold;
+  border-color: transparent;
 }
 
 .products {
