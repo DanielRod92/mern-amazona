@@ -1,7 +1,7 @@
 const data = {
     products: [
         {
-            _id: '1',
+            // _id: '1',
             name: 'Nike LD Waffle Sacai Black Nylon',
             slug: 'nike-ld-waffle-black',
             category: 'Shoes',
@@ -14,7 +14,7 @@ const data = {
             description: 'high quality sneaker'
         },
         {
-            _id: '2',
+            // _id: '2',
             name: 'Nike Dunk Low Off-White Pine Green',
             slug: 'nike-dunk-low',
             category: 'Shoes',
@@ -27,7 +27,7 @@ const data = {
             description: 'high quality sneaker'
         },
         {
-            _id: '3',
+            // _id: '3',
             name: 'Nike Air Force 1 Low Supreme Black',
             slug: 'nike-air-force',
             category: 'Shoes',
@@ -40,7 +40,7 @@ const data = {
             description: 'high quality sneaker'
         },
         {
-            _id: '4',
+            // _id: '4',
             name: 'Nike LD Waffle Sacai White Nylon',
             slug: 'nike-ld-waffle-white',
             category: 'Shoes',
