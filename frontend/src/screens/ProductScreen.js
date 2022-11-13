@@ -112,7 +112,7 @@ function ProductScreen() {
                                             {product.countInStock > 0 ?
                                                 <Badge bg="success">In stock</Badge>
                                                 :
-                                                <Badge bg="danger">Unavailable</Badge>}</Col>
+                                                <Badge bg="danger">No disponible</Badge>}</Col>
                                     </Row>
                                 </ListGroup.Item>
                                 {product.countInStock > 0 && (
