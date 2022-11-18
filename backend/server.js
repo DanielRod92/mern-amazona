@@ -15,7 +15,7 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
 
 const app = express();
 app.use(express.json());
-app.use('/api/seed', seedRouter);   
+app.use('/api/seed', seedRouter);
 app.use('/api/products', productRouter);
 
 const port = process.env.PORT || 5000;
